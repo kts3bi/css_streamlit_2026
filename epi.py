@@ -237,3 +237,4 @@ else:
 
 st.divider()
 st.caption("Built with Streamlit • Profile template for CSS2026")
+
